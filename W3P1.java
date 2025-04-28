@@ -16,7 +16,7 @@ public class W3P1 {
             }
             arr[j+1] = key;
         }
-        System.out.println("Total comparsion are: " + cnt);
+        System.out.println("Total comparison are: " + cnt);
     }
 
     public static void main(String[]  args) {
