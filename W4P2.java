@@ -17,7 +17,6 @@ public class W4P2 {
         // Swap pivot with the last element
         swap(arr, pivotIndex, high);
         swaps++;
-
         int i = low - 1;
         for (int j = low; j < high; j++) {
             comparisons++;

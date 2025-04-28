@@ -18,7 +18,7 @@ public class W3P2 {
                 arr[min] = temp;
             }
         }
-        System.out.println("Total comparsion are: "+ cnt);
+        System.out.println("Total comparison are: "+ cnt);
     }
 
     public static void main(String[] args) {
